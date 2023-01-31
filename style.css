@@ -1,5 +1,5 @@
 :root {
-    --font-family: "OCR A Std", monospace;
+    --font-family: "Sans-Serif", monospace;
     --normal-font: 400;
     --bold-font: 600;
     --bolder-font: 800;
@@ -109,7 +109,7 @@ nav ul{
 
 #welcome{
     color: white;
-    font-size: 169px;
+    font-size: 100px;
     padding-top: 300px;
     padding-bottom: 300px;
     background: linear-gradient(-45deg, red, orange, #23a6d5, blue);
